@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "categoria": "Lacteos",
+        "nombre": "Yogurt light"
+    },
+
+    {
+        "id": 2,
+        "categoria": "Lacteos",
+        "nombre": "Leche cultivada"
+    },
+
+    {
+        "id": 3,
+        "categoria": "Carnes",
+        "nombre": "Cerdo"
+    },
+
+    {
+        "id": 4,
+        "categoria": "Abarrotes",
+        "nombre": "Lentejas"
+    }
+]
