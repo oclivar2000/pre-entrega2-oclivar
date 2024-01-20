@@ -1,13 +1,15 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { Link, useNavigate } from 'react-router-dom';
 
-const NavBar = ({ categoryId }) => {
+const NavBar = ({ }) => {
+
+ 
   return (
     <div>
       <ul>
-        <li><Link to={`/category/${categoryId}`}>Carnes</Link></li>
-        <li><Link to={`/category/${categoryId}`}>Lacteos</Link></li>
-        <li><Link to={`/category/${categoryId}`}>Abarrotes</Link></li>
+        <li><Link to={`/category/Carnes`}>Carnes</Link></li>
+        <li><Link to={`/category/Lacteos`}>Lacteos</Link></li>
+        <li><Link to={`/category/Abarrotes`}>Abarrotes</Link></li>
       </ul>
     </div>
   );

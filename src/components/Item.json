@@ -2,24 +2,32 @@
     {
         "id": 1,
         "categoria": "Lacteos",
-        "nombre": "Yogurt light"
+        "nombre": "Yogurt light",
+        "imagenCategoria": "https://infoalimentos.org.ar/images/temas/el_rol_del_consumidor/TEMAS_lacteos_interna_horiz_840x410.jpg",
+        "imagenDetalle" : "https://www.yoplait.ca/wp-content/uploads/2018/09/source-strawberry-460x460-1.png"
     },
 
     {
         "id": 2,
         "categoria": "Lacteos",
-        "nombre": "Leche cultivada"
+        "nombre": "Leche cultivada",
+        "imagenCategoria": "https://infoalimentos.org.ar/images/temas/el_rol_del_consumidor/TEMAS_lacteos_interna_horiz_840x410.jpg",
+        "imagenDetalle" : "https://www.yoplait.ca/wp-content/uploads/2018/09/source-strawberry-460x460-1.png"
     },
 
     {
         "id": 3,
         "categoria": "Carnes",
-        "nombre": "Cerdo"
+        "nombre": "Cerdo",
+        "imagenCategoria": "https://infoalimentos.org.ar/images/temas/el_rol_del_consumidor/TEMAS_lacteos_interna_horiz_840x410.jpg",
+        "imagenDetalle" : "https://www.yoplait.ca/wp-content/uploads/2018/09/source-strawberry-460x460-1.png"
     },
 
     {
         "id": 4,
         "categoria": "Abarrotes",
-        "nombre": "Lentejas"
+        "nombre": "Lentejas",
+        "imagenCategoria": "https://infoalimentos.org.ar/images/temas/el_rol_del_consumidor/TEMAS_lacteos_interna_horiz_840x410.jpg",
+        "imagenDetalle" : "https://www.yoplait.ca/wp-content/uploads/2018/09/source-strawberry-460x460-1.png"
     }
 ]
