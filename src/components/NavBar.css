@@ -1,0 +1,9 @@
+.ordenarMenu{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ordenarMenu li{
+    padding-left: 10px;
+    padding-right: 10px;
+}
