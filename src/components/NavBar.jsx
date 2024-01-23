@@ -1,9 +1,8 @@
 import React from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import './NavBar.css'
-const NavBar = ({ }) => {
 
- 
+const NavBar = ({ }) => {
   return (
     <div>
       <ul className='ordenarMenu'>

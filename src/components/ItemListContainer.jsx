@@ -23,7 +23,7 @@ const ItemListContainer = () => {
       <Link to="/">
         <button>Volver a Home</button>
       </Link>
-      <NavBar />
+      
       
       {/* Mostrar solo las categorías en la ruta '/' */}
       {categoria === undefined && (

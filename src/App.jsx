@@ -1,6 +1,4 @@
 import { useState } from 'react'
-//import reactLogo from './assets/react.svg'
-//import viteLogo from '/vite.svg'
 import './App.css'
 import { Route, Routes } from 'react-router-dom'
 
@@ -9,12 +7,10 @@ import ItemDetailContainer from './components/ItemDetailContainer'
 import NavBar from './components/NavBar'
 
 function App() {
-  // ‘/’ navega a <ItemListContainer />
-  // ‘/category/:id’  <ItemListContainer />
-  // ‘/item/:id’ navega a <ItemDetailContainer />
 
   return (
     <>
+      <NavBar />
       <Routes>
         <Route path='/' element={<ItemListContainer />} />
         <Route path='/category/:categoria' element={<ItemListContainer />} />
